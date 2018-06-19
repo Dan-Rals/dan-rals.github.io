@@ -1,0 +1,20 @@
+<body>
+<div class="header">
+
+<nav>
+<ul id="top_menu">
+<li><a href="index.html" class="buttonns">Главная</a></li>
+<li><a href="contacts.html" class="buttonns">Контакты</a></li>
+</ul>
+</nav>
+</div>
+
+из стиля
+.sidebar {
+    width:0;
+    height:450px;
+    border:1px solid #000000;
+    background: #;
+    float:left;
+	box-shadow:0 0 0 1200px rgba(0, 0, 0, 0.33) inset;
+    }
